@@ -31,7 +31,7 @@
 		"ts-jest": "29.1.1",
 		"ts-node": "10.9.1",
 		"typescript": "5.1.6",
-		"typescript-cp": "0.1.8"
+		"typescript-cp": "0.1.10"
 	},
 	"scripts": {
 		"reinstall": "rm package-lock.json && rm -rf node_modules && npm cache clean --force && npm install",
