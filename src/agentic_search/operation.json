@@ -1,0 +1,5 @@
+{
+  "name": "agentic_search",
+  "title": "Agentic Search",
+  "description": "Run Anakin's multi-stage AI research pipeline: search, scrape citations, and extract structured data. Submits the job and polls until it completes or fails. Costs 10 credits."
+}

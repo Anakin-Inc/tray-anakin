@@ -1,0 +1,5 @@
+{
+  "name": "search",
+  "title": "Search",
+  "description": "AI-powered web search with citations. Synchronous — no polling. Costs 3 credits per call."
+}

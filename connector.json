@@ -1,0 +1,13 @@
+{
+  "name": "tray-anakin",
+  "version": "1.0",
+  "title": "Anakin",
+  "description": "Web scraping, AI-powered search, and multi-stage agentic research over hundreds of popular sites, via api.anakin.io.",
+  "service": {
+    "name": "anakin",
+    "version": "1"
+  },
+  "tags": ["service"],
+  "isTrigger": false,
+  "rawHttp": { "enabled": true }
+}

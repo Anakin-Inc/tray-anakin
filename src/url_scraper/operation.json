@@ -1,0 +1,5 @@
+{
+  "name": "url_scraper",
+  "title": "Scrape URL",
+  "description": "Scrape a URL with Anakin and return clean markdown (and, optionally, AI-extracted structured JSON). Submits the scrape job and polls until it completes or fails."
+}
