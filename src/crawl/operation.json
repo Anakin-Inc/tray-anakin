@@ -1,0 +1,5 @@
+{
+  "name": "crawl",
+  "title": "Crawl Site",
+  "description": "Bulk-fetch markdown across a site — for catalog ingestion or site-wide RAG corpora. Submits the crawl job and polls until it completes or fails."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "session_delete",
+  "title": "Session: Delete",
+  "description": "Permanently delete a saved browser session and its encrypted login data. Irreversible — the user must log in again through the dashboard to recreate it, and any monitors or requests referencing this sessionId will lose authenticated access."
+}

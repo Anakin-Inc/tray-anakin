@@ -1,0 +1,5 @@
+{
+  "name": "wire_login",
+  "title": "Wire: Sign In",
+  "description": "Sign in to a credentials-mode Wire site and get a credential_id usable immediately with Wire: Run Read Action / Wire: Run Write Action. The password is never stored, only the encrypted session."
+}

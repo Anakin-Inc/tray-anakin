@@ -1,0 +1,5 @@
+{
+  "name": "wire_read_action",
+  "title": "Wire: Run Read Action",
+  "description": "Run a Wire READ action — one whose type is \"read\" (extracts data; does not change state on the target site). Submits POST /wire/task and, if the action is async, polls the job to completion."
+}

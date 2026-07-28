@@ -1,0 +1,5 @@
+{
+  "name": "wire_catalog",
+  "title": "Wire: Browse Catalog",
+  "description": "Browse the Wire catalog. With no slug, lists every supported website and its action count. Pass a slug to get that site's full action list with exact parameter schemas, auth mode, and credit cost."
+}

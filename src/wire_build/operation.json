@@ -1,0 +1,5 @@
+{
+  "name": "wire_build",
+  "title": "Wire: Build New Action",
+  "description": "Request a brand-new Wire action for a website that isn't in the catalog yet. Asynchronous (returns status \"pending\") and charges credits, refunded automatically if the build fails. Only use after Wire: Discover Actions / Wire: Browse Catalog confirm no existing action covers the site."
+}

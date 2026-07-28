@@ -1,0 +1,5 @@
+{
+  "name": "session_list",
+  "title": "Session: List",
+  "description": "List your saved browser sessions — encrypted login states captured via the Anakin dashboard or Browser API. Each session's id is what you pass as sessionId to Scrape URL, Crawl Site, or Monitor: Create for login-protected pages. Optionally filter by domain."
+}

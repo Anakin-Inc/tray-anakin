@@ -1,0 +1,5 @@
+{
+  "name": "ai_visibility_search",
+  "title": "AI Visibility: Search",
+  "description": "Ask multiple AI answer engines (ChatGPT, Gemini, Google AI Overview) the same question and compare their answers. Submits the search and polls until it reaches a terminal state."
+}

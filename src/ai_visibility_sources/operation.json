@@ -1,0 +1,5 @@
+{
+  "name": "ai_visibility_sources",
+  "title": "AI Visibility: List Sources",
+  "description": "List the AI answer engines available to AI Visibility: Search — each with its slug and display label."
+}

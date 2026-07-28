@@ -1,0 +1,5 @@
+{
+  "name": "wire_write_action",
+  "title": "Wire: Run Write Action",
+  "description": "Run a Wire WRITE action — one whose type is \"write\" (performs a state-changing interaction on the target site: submit a form, add to cart, post content). Submits POST /wire/task and, if the action is async, polls the job to completion. This operation changes state on an external site — review the action and params before running it in a workflow."
+}
