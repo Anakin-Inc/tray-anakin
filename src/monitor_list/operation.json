@@ -1,0 +1,5 @@
+{
+  "name": "monitor_list",
+  "title": "Monitor: List",
+  "description": "List your website monitors, or pass an id to fetch one monitor's full configuration and status (next/last check time, active state, alert settings)."
+}

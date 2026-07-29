@@ -1,0 +1,5 @@
+{
+  "name": "monitor_control",
+  "title": "Monitor: Control",
+  "description": "Control an existing website monitor: \"pause\" stops scheduled checks, \"resume\" restarts them, \"run_now\" triggers an immediate check, and \"delete\" permanently removes the monitor and its history."
+}

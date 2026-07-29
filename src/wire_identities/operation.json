@@ -1,0 +1,5 @@
+{
+  "name": "wire_identities",
+  "title": "Wire: List Identities",
+  "description": "List your saved Wire identities and their credentials — each credential's id is the credential_id passed to Wire: Run Read Action / Wire: Run Write Action for actions whose auth_mode is \"required\". Optionally filter by catalog_id."
+}

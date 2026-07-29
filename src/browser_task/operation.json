@@ -1,0 +1,5 @@
+{
+  "name": "browser_task",
+  "title": "Run Browser Task",
+  "description": "Run a natural-language task in a real cloud browser driven by an AI agent — it navigates, clicks, types, scrolls, and extracts on your behalf. Always submitted in async mode and polled to completion. This operation can change state on the target site — review the prompt before running it in a workflow."
+}

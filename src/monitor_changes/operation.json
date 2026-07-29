@@ -1,0 +1,5 @@
+{
+  "name": "monitor_changes",
+  "title": "Monitor: Get Changes",
+  "description": "Get the detected changes for a monitor — each entry records when the watched content differed from the previous check, with a diff/summary."
+}

@@ -1,0 +1,5 @@
+{
+  "name": "map",
+  "title": "Map Site",
+  "description": "Discover all reachable URLs under a site — useful for understanding a domain's structure before crawling. Submits the discovery job and polls until it completes or fails."
+}

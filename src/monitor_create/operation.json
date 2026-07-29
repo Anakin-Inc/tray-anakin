@@ -1,0 +1,5 @@
+{
+  "name": "monitor_create",
+  "title": "Monitor: Create",
+  "description": "Create a scheduled website monitor that checks a URL every intervalMinutes (min 15) and records a change when the content differs — optionally alerting a webhook or email."
+}

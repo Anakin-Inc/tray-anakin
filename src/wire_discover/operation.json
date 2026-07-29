@@ -1,0 +1,5 @@
+{
+  "name": "wire_discover",
+  "title": "Wire: Discover Actions",
+  "description": "Find Wire actions for a task from a natural-language intent. Wire is Anakin's catalog of pre-built automation actions across hundreds of websites. Returns ranked candidate actions with their action_id, type (read/write), params, credit cost, and whether auth is needed."
+}
