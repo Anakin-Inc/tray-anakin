@@ -22,7 +22,7 @@
 	"dependencies": {
 		"@trayio/cdk-dsl": "5.30.0",
 		"@trayio/cdk-runtime": "5.30.0",
-		"axios": "^1.6.7"
+		"axios": "^1.20.0"
 	},
 	"devDependencies": {
 		"@types/jest": "28.1.3",
